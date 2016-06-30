@@ -67,7 +67,7 @@
 
     ![](./images/main-frame-assembly/step11.png)
 
-12.   Use the 2 30 1⁄2” punched angle lengths as the vertical posts on the outermost electronics chamber side, making sure that the end of the length with the cut through a punched hole is towards the top. Use the 1⁄2” bolts to secure the bases, with washers on the outside but not the inside of the punched angle corners. Make sure the intersections between angle parts are approximately perpendicular.
+12.   Use the 2 31 1⁄2” punched angle lengths as the vertical posts on the outermost electronics chamber side, making sure that the end of the length with the cut through a punched hole is towards the top. Use the 1⁄2” bolts to secure the bases, with washers on the outside but not the inside of the punched angle corners. Make sure the intersections between angle parts are approximately perpendicular.
 
     ![](./images/main-frame-assembly/step12.png)
 
