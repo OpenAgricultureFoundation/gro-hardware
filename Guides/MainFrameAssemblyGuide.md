@@ -1,10 +1,9 @@
 # Main Frame Assembly Guide
 
 ## Parts
-
-  * PVC base board
-  * PVC motherboard wall
-  * 6 x 2” diameter PVC standoffs
+  * PVC base board (32.875 in x 21.125 in)
+  * PVC motherboard wall (31.875 in x 21.375 in)
+  * 6 x 2” diameter PVC standoffs (Drill them yourself)
   * 6 x 2” self adhesive anti­skid surface pads Punched angle
     * 2 x 31 1⁄2” 4 x 30”
     * 4 x 24”
