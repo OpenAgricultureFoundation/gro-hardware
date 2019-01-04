@@ -1,4 +1,6 @@
-# Personal Food Computer 1.0
+# DEPRECATED.
+
+## Personal Food Computer 1.0
 
 ![](./Imgs/renders/FoodComputerRender.png)
 
